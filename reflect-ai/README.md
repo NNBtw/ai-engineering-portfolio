@@ -4,6 +4,12 @@ A bilingual journal pairs a user's writing with a Gemini response. Two operation
 
 [Watch the product walkthrough](https://lnkd.in/p/g2PDpeEi) · [Open the journal](https://reflective-journal-ai-companion.ai.studio/)
 
+### Weekly Reflection
+
+Weekly Reflection helps you look back on a week of journal entries. In this local demo, Gemini spots two entries that describe unplugging the same extension cord in different words. You can click back to both entries to see if Gemini got it right. All journal entries in the demo are synthetic.
+
+[Watch the 84-second Meet the Builders demo on YouTube](https://youtu.be/8MaUt_gtu3M)
+
 ```mermaid
 flowchart LR
     U[Journal in browser] --> A[Firebase sign-in]
