@@ -4,7 +4,13 @@ A bilingual journal pairs a user's writing with a Gemini response. Two operation
 
 [Watch the product walkthrough](https://lnkd.in/p/g2PDpeEi) · [Open the journal](https://reflective-journal-ai-companion.ai.studio/)
 
-### Weekly Reflection
+### Try ReflectAI
+
+1. Open the journal using the link above and sign in with Google.
+2. Write a short entry and select **Send**. You can use a fictional example, such as planning a weekend walk.
+3. Read the reply from Gemini and write a follow-up to continue the reflection.
+
+### Weekly Reflection (local demo)
 
 Weekly Reflection helps you look back on a week of journal entries. In this local demo, Gemini spots two entries that describe unplugging the same extension cord in different words. You can click back to both entries to see if Gemini got it right. All journal entries in the demo are synthetic.
 
