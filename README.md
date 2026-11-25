@@ -4,7 +4,7 @@ Three projects from my transition from clinical support to software engineering.
 
 | Case study | Engineering question | Demo |
 | --- | --- | --- |
-| [Reflect AI](reflect-ai/) | What happens to a journal entry if generation fails after the user presses Send? | [Product walkthrough](https://lnkd.in/p/g2PDpeEi) |
+| [Reflect AI](reflect-ai/) | What happens to a journal entry if generation fails after the user presses Send? | [Product walkthrough](https://lnkd.in/p/g2PDpeEi) · [Weekly Reflection (84s)](https://youtu.be/8MaUt_gtu3M) |
 | [Social Spark](social-spark/) | Which event shows that a person approved the specific draft being published? | [Offline Python sample](social-spark/review_trace.py) |
 | [CareOps Agent](careops/) | How can a second approval return existing tasks without duplicating work? | [Approval walkthrough](careops/walkthrough.md) |
 
